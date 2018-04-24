@@ -1,5 +1,4 @@
-//Mario Saur
-//Hallo
+
 package de.ur.adp.linkedlist;
 
 
