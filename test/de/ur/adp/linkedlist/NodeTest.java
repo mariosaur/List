@@ -1,5 +1,5 @@
-package de.ur.adp.linkedlist;
-
+//package de.ur.adp.linkedlist;
+///
 
 import org.junit.Test;
 

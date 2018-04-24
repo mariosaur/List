@@ -1,7 +1,7 @@
 
-package de.ur.adp.linkedlist;
+//package de.ur.adp.linkedlist;
 
-
+//Das ist ein Test
 public class Node {
 
   private int content;
